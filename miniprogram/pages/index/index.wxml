@@ -8,5 +8,7 @@
     </view>
     <text class="page-right">+ 关注</text>
   </view>
-  <index-card></index-card>
+  <view class="content-wrapper">
+    <index-card></index-card>
+  </view>
 </view>
