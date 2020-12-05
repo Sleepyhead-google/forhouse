@@ -35,4 +35,9 @@ Page({
       }
     })
   },
+  gotoDetail() {
+    wx.navigateTo({
+      url: '../detail/detail',
+    })
+  }
 })
