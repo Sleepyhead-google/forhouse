@@ -1,2 +1,3 @@
-<!--components/indexCard.wxml-->
-<text>components/indexCard.wxml</text>
+<view>
+ 帖子内容待开发
+</view>

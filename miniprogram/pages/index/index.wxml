@@ -1,5 +1,5 @@
 <!--index.wxml-->
 <view class="container">
-  <view></view>
-
+  <view>拼租，找到适合你的房子</view>
+  <index-card></index-card>
 </view>
