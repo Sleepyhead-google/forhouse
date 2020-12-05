@@ -1,3 +1,16 @@
 .container {
   margin: 20rpx;
 }
+.top-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.page-logo {
+    width: 100rpx;
+    height: 100rpx;
+    margin: 10rpx;
+    float: left;
+    box-sizing: border-box;
+}

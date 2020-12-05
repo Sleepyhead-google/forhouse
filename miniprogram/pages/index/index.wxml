@@ -1,5 +1,12 @@
-<!--index.wxml-->
+<!-- index.wxml -->
 <view class="container">
-  <view>拼租，找到适合你的房子</view>
+  <view class="top-wrapper">
+    <image class="page-logo" src="../../images/shouye.png"></image>
+    <view class="" hover-class="none" hover-stop-propagation="false">
+      <view class="" hover-class="none" hover-stop-propagation="false">买房租房</view>
+      <view class="" hover-class="none" hover-stop-propagation="false">100+阅读 4201关注</view>
+    </view>
+    <view class="" hover-class="none" hover-stop-propagation="false">关注</view>
+  </view>
   <index-card></index-card>
 </view>
