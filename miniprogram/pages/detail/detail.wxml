@@ -1,0 +1,4 @@
+<!-- index.wxml -->
+<view class="content-wrapper">
+    <index-card></index-card>
+</view>

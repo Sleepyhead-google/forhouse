@@ -1,0 +1,40 @@
+<view class="card-wrapper">
+	<view class="card-title">
+		设计师ID
+	</view>
+	<view class="card-content">
+		大家租房信息都在哪里发布？
+	</view>
+	<view class="card-images">
+		<image
+		 class="image-item"
+		 src="https://ww4.sinaimg.cn/bmiddle/001Q9HNlgy1glbygxyatbj60fo0mtt9u02.jpg"
+		 mode="aspectFill"
+		 lazy-load="false"
+		 binderror=""
+		 bindload=""
+		/>
+		<image
+		 class="image-item"
+		 src="https://ww1.sinaimg.cn/bmiddle/a7f44668ly1glc2rpgu8dj20j60c7ab2.jpg"
+		 mode="aspectFill"
+		 lazy-load="false"
+		 binderror=""
+		 bindload=""
+		/>
+		<image
+		 class="image-item"
+		 src="https://ww1.sinaimg.cn/bmiddle/006SOxbngy1glc4ja3165j30xc0qodmo.jpg"
+		 mode="aspectFill"
+		 lazy-load="false"
+		 binderror=""
+		 bindload=""
+		/>
+	</view>
+	<view class="card-time">
+		<text class="time">19分钟前</text>
+    <text class="read">436阅读</text>
+	</view>
+	<card-footer/>
+</view>
+

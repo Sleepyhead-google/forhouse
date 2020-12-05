@@ -1,0 +1,4 @@
+/* miniprogram/pages/detail.wxss */
+.content-wrapper {
+  margin: 0 30rpx 30rpx;
+}

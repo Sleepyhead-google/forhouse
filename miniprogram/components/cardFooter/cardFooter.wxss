@@ -1,0 +1,21 @@
+/* components/cardFooter/cardFooter.wxss */
+.footer-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  color: rgb(153, 153, 153);
+}
+
+.footer-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+.footer-icon {
+  width: 30rpx;
+  height: 30rpx;
+  margin-right: 10rpx;
+}

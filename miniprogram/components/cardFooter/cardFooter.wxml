@@ -1,0 +1,14 @@
+<view class="footer-wrapper">
+   <view class="footer-item">
+    <image class="footer-icon" src="../../images/share.png"></image>
+    <text>分享</text>
+   </view>
+   <view class="footer-item">
+    <image class="footer-icon" src="../../images/comment.png"></image>
+    <text>评论</text>
+   </view>
+   <view class="footer-item">
+    <image class="footer-icon" src="../../images/like.png"></image>
+    <text>赞</text>
+   </view>
+</view>

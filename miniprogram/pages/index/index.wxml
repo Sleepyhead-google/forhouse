@@ -1,0 +1,17 @@
+<!-- index.wxml -->
+<view class="container">
+  <view class="top-wrapper">
+    <image class="page-logo" src="../../images/shouye.png"></image>
+    <view class="page-middle">
+      <view class="page-middle-top">买房租房</view>
+      <view class="page-middle-down">100+阅读 4201关注</view>
+    </view>
+    <text class="page-right">+ 关注</text>
+  </view>
+  <view class="content-wrapper">
+    <block wx:for="index in [1,3,3]">
+      <index-card bindtap="gotoDetail"></index-card>
+    </block>
+    
+  </view>
+</view>
