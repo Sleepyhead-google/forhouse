@@ -1,3 +1,14 @@
 <view>
- 帖子内容待开发
+	<view class="card-title">
+		设计师ID
+	</view>
+	<view class="card-content">
+		大家租房信息都在哪里发布？
+	</view>
+	<view class="card-images">图片1</view>
+	<view class="card-time">
+		19分钟前 436阅读
+	</view>
+	<card-footer/>
 </view>
+
